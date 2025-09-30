@@ -1,7 +1,6 @@
 # Assignment 1 – Newick Tree Scaling
 
 ## Development Process
-I created the code by iteratively experimenting and learning with the help of an AI assistant.  
 I asked a few targeted questions to clarify concepts and get started with code structure. For example:
 
 1. **Question:** *"Could you tell me how to read Newick tree in python?"*  
