@@ -1,8 +1,5 @@
 # JC69 Tree Likelihood Calculator
 
-This project implements likelihood computation on phylogenetic trees under the **JC69 substitution model** using **Felsenstein’s pruning algorithm**.
----
-
 ## Overview
 
 Given:
